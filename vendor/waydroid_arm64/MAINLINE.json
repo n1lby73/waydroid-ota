@@ -1,0 +1,13 @@
+{
+    "response": [
+        {
+            "datetime": 1645886754,
+            "filename": "lineage-17.1-20220226-MAINLINE-waydroid_arm64-vendor.zip",
+            "id": "d9d3013efdcb7b240c742cb6db54e97237a36778a83231fa086185d36e9d1349",
+            "romtype": "MAINLINE",
+            "size": 75589966,
+            "url": "https://sourceforge.net/projects/aleasto-lineageos/files/LineageOS%2017.1/waydroid/lineage-17.1-20220226-MAINLINE-waydroid_arm64-vendor.zip/download",
+            "version": "17.1"
+        }
+    ]
+}

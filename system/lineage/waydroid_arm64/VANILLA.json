@@ -1,0 +1,13 @@
+{
+    "response": [
+        {
+            "datetime": 1645886754,
+            "filename": "lineage-17.1-20220226-VANILLA-waydroid_arm64-system.zip",
+            "id": "b4a3bfadfdc9cc543a564b9be256f6fa36049044f7412d7bbf7cf43accc22de2",
+            "romtype": "VANILLA",
+            "size": 632195923,
+            "url": "https://sourceforge.net/projects/aleasto-lineageos/files/LineageOS%2017.1/waydroid/lineage-17.1-20220226-VANILLA-waydroid_arm64-system.zip/download",
+            "version": "17.1"
+        }
+    ]
+}
