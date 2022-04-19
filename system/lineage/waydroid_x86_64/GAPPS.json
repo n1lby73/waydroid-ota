@@ -1,0 +1,13 @@
+{
+    "response": [
+        {
+            "datetime": 1647471096,
+            "filename": "lineage-17.1-20220316-GAPPS-waydroid_x86_64-system.zip",
+            "id": "9f6f5f05954c4c3afbc0d197ba6edbd2fc51df7a12951d0bd819afadcfbba00e",
+            "romtype": "GAPPS",
+            "size": 940821127,
+            "url": "https://waydroid.bardia.tech/images/system/lineage/waydroid_x86_64/lineage-17.1-20220316-GAPPS-waydroid_x86_64-system.zip",
+            "version": "17.1"
+        }
+    ]
+}
